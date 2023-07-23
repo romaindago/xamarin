@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWUoFI6IdxCDk+Hp/ugdaj6mRfOMJj5DDHAseWvq0H5y59tlWeulLCaUocGy3XXbIACQ/ArgPA/8p6WV1wZidg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romain\\source\\repos\\PizzaAppXamarin\\PizzaApp.iOS\\PizzaApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romain\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Romain\\.nuget\\packages\\xamarin.forms\\5.0.0.1931\\xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}
